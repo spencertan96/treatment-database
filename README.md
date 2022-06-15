@@ -11,3 +11,8 @@ A Windows Presentation Foundation (WPF) application to track patient treatments.
 3. Run `patient_database.exe`  
 
 *There may be instructions to download .NET 3.1 if you do not have it installed.*
+
+## Credits
+Translucent icons used in background UI *(Folder and connected circles)*
+
+Link: <a href="https://www.flaticon.com/free-icons/big-data" title="big data icons">Big data icons created by Freepik - Flaticon</a>
