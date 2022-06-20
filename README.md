@@ -1,16 +1,22 @@
-# treatment-database
-A Windows Presentation Foundation (WPF) application to track patient treatments. Treatment records consist of a *Diagnosis* and observed *Symptoms* with optional descriptions and notes on a patient. 
+# Treatment Database
+A Windows Presentation Foundation (WPF) application to track patient treatments. 
 
-## Features 
-- Search through the database for specific records using search filters
-- Data analysis such as the most common diagnosis for a certain symptom, frequency of different diagnoses, common symptoms for certain diagnoses
+Users can log their treatment records into the application and search for similarities between different treatments. 
+
+The application also analyses the data and highlights patterns based on it.
+
+## Features
+- Tracking of treatment records
+    - Each record consists of a `Name`, a `Date`, a `Diagnosis`, up to 6 `Symptoms`, up to 6 `Treatments`, a treatment `Effectiveness` (Ineffective, unsure or effective) and `Notes` 
+- Searching through the database for specific records using filters
+- Analysis on stored data such as the most common diagnosis for a certain symptom, frequency of different diagnoses or common symptoms for certain diagnoses
 
 ## To try the application:
 1. Click on the green `Code` button at the top right of the page, then `Download as ZIP`
-2. Extract files into a folder
-3. Run `patient_database.exe`  
+2. Extract the downloaded files into a folder
+3. Run `treatment_database.application`
 
-*There may be instructions to download .NET 3.1 if you do not have it installed.*
+Any future updates will be automatically detected when `treatment_database.application` is run.
 
 ## Credits
 Translucent icons used in background UI *(Folder and connected circles)*
