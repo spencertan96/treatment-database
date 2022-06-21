@@ -5,9 +5,16 @@ Users can log their treatment records into the application and search for simila
 
 The application also analyses the data and highlights patterns based on it.
 
+<img src="showcase-images/Home.png" alt="Treatment Database Home Screen" width="600"/>
+
 ## Features
 - Tracking of treatment records
-    - Each record consists of a `Name`, a `Date`, a `Diagnosis`, up to 6 `Symptoms`, up to 6 `Treatments`, a treatment `Effectiveness` (Ineffective, unsure or effective) and `Notes` 
+
+    <img src="showcase-images/AddRecord.png" alt="Adding a record" width="600"/>  
+    
+    - Each record consists of a `Name`, a `Date`, a `Diagnosis`, up to 6 `Symptoms`, up to 6 `Treatments`, a treatment `Effectiveness` (Ineffective, unsure or effective) and `Notes`   
+    
+
 - Searching through the database for specific records using filters
 - Analysis on stored data such as the most common diagnosis for a certain symptom, frequency of different diagnoses or common symptoms for certain diagnoses
 - 2 different color modes (Light and Dark Mode)
@@ -24,6 +31,8 @@ After the app is installed, it can be run through the:
 - Through `treatment_database.application`  
 
 Any future updates will be automatically detected.
+
+The &nbsp;<img src="showcase-images/HelpButton.png" alt="More Info Button" width="30"/>&nbsp; icon can be clicked to display more information.
 
 ## To uninstall the application:
 1. Go to `Add or Remove Programs` in your computer settings.
