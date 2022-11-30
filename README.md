@@ -20,8 +20,9 @@ The application also analyses the data and highlights patterns based on it.
 - 2 different color modes (Light and Dark Mode)
 
 ## To try the application:
-1. Click on the green `Code` button at the top right of the page, then `Download as ZIP`
-2. Extract the downloaded files into a folder
+1. Go to the project page at <a href="https://spencertan96.github.io/treatment-database/" title="project page link">here</a>.
+1. Then, download either the TAR or ZIP files by clicking on **either** the green `TAR` or `ZIP` button at the top of the page.
+2. Extract the downloaded files into a folder.
 3. Then, run `treatment_database.application`
 - There will be a security warning that you will need to agree to install the application (as I did not a purchase a certificate)
 
@@ -36,7 +37,7 @@ The &nbsp;<img src="showcase-images/HelpButton.png" alt="More Info Button" width
 
 ## To uninstall the application:
 1. Go to `Add or Remove Programs` in your computer settings.
-2. Find the application in the list and click `Uninstall`
+2. Find the application named `treatment_database` in the list and click `Uninstall`
 
 *Note that any stored data will be deleted and cannot be restored!*
 
