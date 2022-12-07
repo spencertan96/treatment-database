@@ -16,20 +16,22 @@ The application also analyses the data and highlights patterns based on it.
     
 
 - Searching through the database for specific records using filters
+
 - Analysis on stored data such as the most common diagnosis for a certain symptom, frequency of different diagnoses or common symptoms for certain diagnoses
+
 - 2 different color modes (Light and Dark Mode)
 
 ## To try the application:
 1. Go to the project page <a href="https://spencertan96.github.io/treatment-database/" title="project page link">here</a>.
-1. Then, download either the TAR or ZIP files by clicking on **either** the green `TAR` or `ZIP` button at the top of the page.
+1. Then, download either the TAR or ZIP files by clicking on **either** the green `TAR` or `ZIP` button at the **top** of the page.
 2. Extract the downloaded files into a folder.
-3. Then, run `treatment_database.application`
+3. Then, run `treatment_database.application` which is located in the `Installer` folder.
 - There will be a security warning that you will need to agree to install the application (as I did not a purchase a certificate)
 
-After the app is installed, it can be run through the:
+After the app is installed, it can be run through either of these 3 ways:
 - Desktop shortcut
 - The Start Menu
-- Through `treatment_database.application`  
+- Through opening `treatment_database.application`  
 
 Any future updates will be automatically detected.
 
