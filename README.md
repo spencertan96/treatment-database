@@ -10,7 +10,7 @@ The application also analyses the data and highlights patterns based on it.
 ## Features
 - Tracking of treatment records
 
-    <img src="showcase-images/AddRecord.png" alt="Adding a record" width="600"/>  
+    <img src="showcase-images/AddRecordWithSearch.png" alt="Adding a record" width="600"/>  
     
     - Each record consists of a `Name`, a `Date`, a `Diagnosis`, up to 6 `Symptoms`, up to 6 `Treatments`, a treatment `Effectiveness` (Ineffective, unsure or effective) and `Notes`   
     
@@ -22,7 +22,7 @@ The application also analyses the data and highlights patterns based on it.
 - 2 different color modes (Light and Dark Mode)
 
 ## To try the application:
-1. Go to the project page <a href="https://spencertan96.github.io/treatment-database/" title="project page link">here</a>.
+1. Go to the project page <a href="https://spencertan96.github.io/treatment-database/" title="project page link">here</a> ("https://spencertan96.github.io/treatment-database").
 1. Then, download either the TAR or ZIP files by clicking on **either** the green `TAR` or `ZIP` button at the **top** of the page.
 2. Extract the downloaded files into a folder.
 3. Then, run `treatment_database.application` which is located in the `Installer` folder.
