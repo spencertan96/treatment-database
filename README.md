@@ -22,7 +22,7 @@ The application also analyses the data and highlights patterns based on it.
 - 2 different color modes (Light and Dark Mode)
 
 ## To try the application:
-1. Go to the project page <a href="https://spencertan96.github.io/treatment-database/" title="project page link">here</a> ("https://spencertan96.github.io/treatment-database").
+1. Go to the project page at <a href="https://spencertan96.github.io/treatment-database/" title="project page link">https://spencertan96.github.io/treatment-database</a>.
 1. Then, download either the TAR or ZIP files by clicking on **either** the green `TAR` or `ZIP` button at the **top** of the page.
 2. Extract the downloaded files into a folder.
 3. Then, run `treatment_database.application` which is located in the `Installer` folder.
